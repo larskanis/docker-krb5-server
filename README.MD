@@ -10,7 +10,7 @@ If you just want to create a Krb5 Server from scratch, just clone the repository
 
 ```
     cd tmp
-    git clone https://github.com/gcavalcante8808/docker-krb5-server.git
+    git clone https://github.com/larskanis/docker-krb5-server.git
     cd docker-krb5-server
     docker-compose up -d
 ```
